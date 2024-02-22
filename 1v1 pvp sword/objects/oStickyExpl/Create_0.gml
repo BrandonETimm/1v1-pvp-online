@@ -1,0 +1,1 @@
+hit = ds_list_create();

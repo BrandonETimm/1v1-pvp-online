@@ -1,0 +1,9 @@
+key_left = false;
+key_right = false;
+key_up = false;
+key_down = false;
+key_select = false;
+key_back = false;
+key_enter = false;
+key_escape = false;
+currName = "";

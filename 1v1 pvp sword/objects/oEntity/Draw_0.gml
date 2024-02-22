@@ -1,0 +1,1 @@
+if (!oServerButton.mult) draw_self();

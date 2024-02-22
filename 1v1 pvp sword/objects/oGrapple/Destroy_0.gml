@@ -1,0 +1,1 @@
+if (instance_exists(enID)) enID.grabbed = false;
